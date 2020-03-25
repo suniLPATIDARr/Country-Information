@@ -1,6 +1,6 @@
 # Country-Information
 Project contains details of countries and comparison among them 
-------------installation--------------
+------------installation-------------
 
 Clone the project from repository.
 Extract zip file.
