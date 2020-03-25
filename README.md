@@ -1,12 +1,12 @@
 # Country-Information
 Project contains details of countries and comparison among them 
-------------installation-------------
+------------installation--------------
 
 Clone the project from repository.
 Extract zip file.
 Open cmd for Country-information project.
 Run command "npm install", it will install the node module dependencies and dev dependencies
-Run command "npm install" it will host your application in local browser with "localhost:portname"
+Run command "npm start" it will host your application in local browser with "localhost:portname"
 ------------project feature ----------
 
 homepage
