@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+.red{
+color:#F86C6B
+}
+.green{
+color:#4EBD74
+}
+.blue{
+  color:#20A8D8
+}
+
+.container{
+  border:2px solid #F86C6B;
+  width:80%;
+  margin:0 auto;
+  padding:20px
+}
+input{
+  width: 70%;
+  border:1px solid #20A8D8;
+  padding:10px
+}
+li{
+  list-style: none;
+  padding: 5px;
+  width: 50%;
+ margin: 0 auto;
+}
+.btnClass{
+  width: 70%;
+  padding: 10px;
+  background: transparent;
+  cursor: pointer;
+}
+.countryDetails{
+  width: 90%;
+  margin:0 auto;
+  padding:10px;
+
+}
+.additionalCss li {
+  border:1px solid #20A8D8;
+  background:#dcdcdc;
+  border-radius:30px;
+   box-shadow:3px 5px #F86C6B
+}
